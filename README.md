@@ -1,21 +1,26 @@
-# Ciao, sono Alex Martinelli 👋
+# Hi, I'm Alex Martinelli 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MSc+Computer+Engineering+Student;Robotics+%26+Automation;Rust,+Python,+MATLAB+Developer&font=Fira+Code&center=true&width=600&height=50&color=3B82F6&vCenter=true&size=22" alt="Typing SVG" />
-</p>
+MSc Computer Engineering student, focused on **robotics, control and automation**.
+I like building things that sit between software and the physical world: simulators, embedded firmware, and data-driven models.
 
-### 🛠 Technical Skills
+## 🔧 Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,matlab,py,rust,c,linux,git,mongodb,elasticsearch" />
-  </a>
-</p>
+![Java](https://skillicons.dev/icons?i=java,matlab,py,rust,c,cpp,pytorch,arduino,linux,git)
 
-### 📊 GitHub Stats
+**Languages:** Rust · Python · MATLAB/Simulink · Java · C/C++
+**Areas:** control theory, multi-agent systems, deep learning, embedded systems (ESP32), concurrent programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-martinelli&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiche GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-martinelli&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati" height="150"/>
-</p>
+## 🚀 Projects
 
+| Project | What it is | Stack |
+|---|---|---|
+| [multi-agent-cps-simulator](https://github.com/alex-martinelli/multi-agent-cps-simulator) | Decentralized formation control of heterogeneous nonlinear mobile robots, using feedback linearization and pinning control. | MATLAB, Simulink |
+| [biometric-emotion-cnn](https://github.com/alex-martinelli/biometric-emotion-cnn) | CNN that predicts emotions from ECG and electrodermal signals, comparing early and late sensor fusion, with SHAP analysis. | Python, PyTorch |
+| [rust-fleet-tracker](https://github.com/alex-martinelli/rust-fleet-tracker) | Asynchronous fleet tracking system with a concurrent server and an interactive map client. | Rust, Tokio |
+| [java-tour-manager](https://github.com/alex-martinelli/java-tour-manager) | Guided-tour reservation system built with MVC, Strategy and State patterns, JSON persistence and JUnit 5 tests. | Java |
+| [esp32-smart-mirror](https://github.com/alex-martinelli/esp32-smart-mirror) | Proximity-activated photo frame: ultrasonic sensor, TFT display, SD card images, temperature and humidity readout. | C++, ESP32 |
+
+## 📫 Contact
+
+- LinkedIn: **TODO** add your profile link
+- Email: **TODO** add your address
