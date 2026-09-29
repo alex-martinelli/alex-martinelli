@@ -20,7 +20,3 @@ I like building things that sit between software and the physical world: simulat
 | [java-tour-manager](https://github.com/alex-martinelli/java-tour-manager) | Guided-tour reservation system built with MVC, Strategy and State patterns, JSON persistence and JUnit 5 tests. | Java |
 | [esp32-smart-mirror](https://github.com/alex-martinelli/esp32-smart-mirror) | Proximity-activated photo frame: ultrasonic sensor, TFT display, SD card images, temperature and humidity readout. | C++, ESP32 |
 
-## 📫 Contact
-
-- LinkedIn: **TODO** add your profile link
-- Email: **TODO** add your address
