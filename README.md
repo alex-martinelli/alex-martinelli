@@ -34,6 +34,8 @@ Android app that finds blurry and duplicate photos with on-device AI: quality fi
 
 ## Toolbox
 
-<img src="https://skillicons.dev/icons?i=rust,py,matlab,java,kotlin,c,cpp,pytorch,tensorflow,opencv,androidstudio,arduino,linux,git&perline=7" alt="Rust, Python, MATLAB, Java, Kotlin, C, C++, PyTorch, TensorFlow, OpenCV, Android Studio, Arduino, Linux, Git">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,java,kotlin,py,matlab,haskell,bash,ros,pytorch,tensorflow,opencv,arduino,linux,git&perline=8" alt="C, C++, Rust, Java, Kotlin, Python, MATLAB, Haskell, Bash, ROS, PyTorch, TensorFlow, OpenCV, Arduino, Linux, Git">
+
+**Languages:** C · C++ · Rust · ARM and MIPS assembly · Java · Kotlin · Python · SQL · MATLAB/Simulink · Haskell · Scheme · Prolog · Bash
 
 **Areas:** control theory · multi-agent systems · deep learning · computer vision · on-device ML (TensorFlow Lite) · embedded systems (ESP32) · concurrent programming
