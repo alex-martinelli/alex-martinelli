@@ -38,4 +38,6 @@ Android app that finds blurry and duplicate photos with on-device AI: quality fi
 
 **Languages:** C · C++ · Rust · ARM and MIPS assembly · Java · Python · SQL · MATLAB/Simulink · Haskell · Scheme · Prolog · Bash
 
+**Compilers:** Lex · Yacc
+
 **Areas:** control theory · multi-agent systems · deep learning · computer vision · on-device ML (TensorFlow Lite) · embedded systems (ESP32) · concurrent programming
