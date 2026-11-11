@@ -11,7 +11,7 @@ I like building things that sit between software and the physical world: simulat
 
 Android app that finds blurry and duplicate photos with on-device AI: quality filters, a NIMA aesthetic model, a taste model trained on the phone and duplicate grouping. I built the whole AI pipeline. In closed testing on Google Play.
 
-`Kotlin` `TensorFlow Lite` `OpenCV` `ML Kit`
+`TensorFlow Lite` `OpenCV` `ML Kit`
 
 ## Projects
 
